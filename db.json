@@ -1,0 +1,236 @@
+{
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who created the digital distribution platform Steam?",
+            "correct_answer": "Valve",
+            "incorrect_answers": [
+                "Pixeltail Games",
+                "Ubisoft",
+                "Electronic Arts"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was Marilyn Monroe`s character&#039;s first name in the film &quot;Some Like It Hot&quot;?",
+            "correct_answer": "Sugar",
+            "incorrect_answers": [
+                "Honey",
+                "Caramel",
+                "Candy"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+            "correct_answer": "Demolition",
+            "incorrect_answers": [
+                "The Dream Team",
+                "The Bushwhackers",
+                "The British Bulldogs"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Russian oblast forms a border with Poland?",
+            "correct_answer": "Kaliningrad",
+            "incorrect_answers": [
+                "Samara",
+                "Nizhny Novgorod",
+                "Omsk"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What did the first moving picture depict?",
+            "correct_answer": "A galloping horse",
+            "incorrect_answers": [
+                "A woman in a dress",
+                "A man walking",
+                "A crackling fire"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In the &quot;Melancholy of Haruhi Suzumiya&quot; series, the narrator goes by the nickname Kyon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "When you cry in space, your tears stick to your face.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?",
+            "correct_answer": "Hell Knight",
+            "incorrect_answers": [
+                "Mancubus",
+                "Pinky",
+                "Arch-Vile"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In what year was the game &quot;FTL: Faster Than Light&quot; released?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2014",
+                "2013",
+                "2011"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+            "correct_answer": "Quebec City",
+            "incorrect_answers": [
+                "Houston",
+                "Montreal",
+                "New York"
+            ]
+        },
+        {
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is not a Flintstones character?",
+            "correct_answer": "Lord Rockingham IX",
+            "incorrect_answers": [
+                "Rockhead Slate",
+                "The Great Gazoo",
+                "Barney Rubble"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In Rocket League, you can play Basketball.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Donkey Kong Country&quot;, why does Donkey Kong want to know the secret of the crystal coconut?",
+            "correct_answer": "He&#039;s the big kahuna.",
+            "incorrect_answers": [
+                "To find out where all the bananas are.",
+                "Because Diddy Kong forced him.",
+                "He wants to punish brutes."
+            ]
+        },
+        {
+            "category": "Celebrities",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+            "correct_answer": "Auction Hunters",
+            "incorrect_answers": [
+                "Ramsay&#039;s Kitchen Nightmares",
+                "Hotel Hell",
+                "Hell&#039;s Kitchen"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+            "correct_answer": "Injection ",
+            "incorrect_answers": [
+                "Broken Authentication",
+                "Cross-Site Scripting",
+                "Insecure Direct Object References"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the board game Twister, released to the public?",
+            "correct_answer": "April 1966",
+            "incorrect_answers": [
+                "September 1965",
+                "January 1969",
+                "February 1966"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these Johns was murdered by gunshots outside the Dakota in New York in 1980?",
+            "correct_answer": "John Lennon",
+            "incorrect_answers": [
+                "Johnny Thunders",
+                "John Denver",
+                "John Cascella"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which stand-up comedian voiced the talking parrot &quot;Iago&quot; in Disney&#039;s 1992 adaptation of Aladdin?",
+            "correct_answer": "Gilbert Gottfried",
+            "incorrect_answers": [
+                "Robin Williams",
+                "Pauly Shore",
+                "Jonathan Freeman"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following was a map that was in Team Fortress 2 at launch?",
+            "correct_answer": "Gravel Pit",
+            "incorrect_answers": [
+                "Hoodoo",
+                "Gold Rush",
+                "Upward"
+            ]
+        }
+    ]
+}
